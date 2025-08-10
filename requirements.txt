@@ -7,3 +7,4 @@ transformers
 clip-openai
 Pillow
 torchvision
+scikit-learn
