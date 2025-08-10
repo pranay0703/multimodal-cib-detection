@@ -1,3 +1,7 @@
 tweepy
 requests
 networkx
+torch
+torch-geometric
+transformers
+clip-openai
